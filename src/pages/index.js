@@ -1,21 +1,56 @@
-import React from "react";
+import React, { Component } from "react";
 import { Link } from "gatsby";
-
+import "../components/LoginComponent.css";
 import Layout from "../components/layout";
-import Image from "../components/image";
-import SEO from "../components/seo";
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">watch video</Link>
-  </Layout>
-);
+class IndexPage extends Component {
+  state = {
+    inputVal: "",
+    isEmpty: false
+  };
+  updateVal = e => {
+    this.setState({ inputVal: e.target.value, isEmpty: true });
+  };
+  verifyInput = e => {
+    if (this.state.inputVal == "") {
+      this.setState({ isEmpty: false });
+      alert("please enter a valid userid");
+      e.preventDefault();
+    }
+  };
+  render() {
+    return (
+      <Layout>
+        <div className="limiter">
+          <div className="container">
+            <div className="wrapper">
+              <div className="form-title"> FOOD RECOMMENDER SYSTEM </div>
+              <form className="form">
+                <div className="inputBox" id="txt1">
+                  <input
+                    type="text"
+                    onChange={e => this.updateVal(e)}
+                    className="input1"
+                    placeholder="UserId"
+                  />
+                  <span className="line" />
+                </div>
+                <div class="loginContainer">
+                  <Link
+                    onClick={e => this.verifyInput(e)}
+                    to="/HomePage"
+                    className="loginButton"
+                  >
+                    Login
+                  </Link>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </Layout>
+    );
+  }
+}
 
 export default IndexPage;

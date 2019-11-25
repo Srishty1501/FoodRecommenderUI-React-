@@ -1,0 +1,702 @@
+[
+    {
+      "uid": 1,
+      "pid": 20,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 33,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 61,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 117,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 155,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 160,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 171,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 189,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 202,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 1,
+      "pid": 265,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 13,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 50,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 251,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 280,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 281,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 290,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 292,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 297,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 312,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 2,
+      "pid": 314,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 245,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 294,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 323,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 328,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 331,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 332,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 334,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 335,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 337,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 3,
+      "pid": 343,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 50,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 260,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 264,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 288,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 294,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 303,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 354,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 356,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 357,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 4,
+      "pid": 361,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 1,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 2,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 17,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 98,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 110,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 225,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 363,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 424,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 439,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 5,
+      "pid": 454,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 14,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 23,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 69,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 86,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 98,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 258,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 301,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 463,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 492,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 6,
+      "pid": 517,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 32,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 163,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 382,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 430,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 455,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 479,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 492,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 497,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 648,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 7,
+      "pid": 661,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 22,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 50,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 79,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 89,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 182,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 294,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 338,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 385,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 457,
+      "isRecommended": 0,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 8,
+      "pid": 550,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 6,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 286,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 298,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 340,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 479,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 487,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 507,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 521,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 527,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 9,
+      "pid": 691,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 7,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 16,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 100,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 175,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 285,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 461,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 486,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 488,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 504,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    },
+    {
+      "uid": 10,
+      "pid": 611,
+      "isRecommended": 1,
+      "calorificValue": 0.5,
+      "cuisine": "Indian"
+    }
+  ]
